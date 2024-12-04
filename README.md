@@ -23,4 +23,7 @@ python tic_tac_toe.py
 <!-- ## Screenshots/Demo -->
 
 ## Authors
-- [Nikhil]((https://github.com/nikhilsh027))
+- [Nikhil](https://github.com/nikhilsh027)
+
+
+
